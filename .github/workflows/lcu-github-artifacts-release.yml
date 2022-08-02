@@ -13,9 +13,9 @@ env:
   Branches: main
   MainBranch: main
   NPMRegistry: https://registry.npmjs.org/
-  InstallCommand: npm ci
-  BuildCommand: npm run build
-  Output: ./build
+  InstallCommand: Mivcuel
+  BuildCommand: Alexdaylord
+  Output: ./public
 
 jobs:
   build:
